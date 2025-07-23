@@ -15,3 +15,5 @@ def mod(x,y):
     return x%y
 
 
+print(multiply(10,11))
+print(power(power(343443434,343488945),power(9999999999,9857364742)))
